@@ -1,7 +1,7 @@
 ## Hello World App
 
 ### App Description
-`TODO://` Add app description
+Hello World App where the user can change the text displayed on screen, color of text and background color.
 
 ### App Walk-though
 
