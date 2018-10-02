@@ -5,8 +5,7 @@ Hello World App where the user can change the text displayed on screen, color of
 
 ### App Walk-though
 
-<img src="https://imgur.com/a/MACsh8a" width=200><br>
-![](Hello_World_App_GIF.gif)
+ ![](Hello_World_App_GIF.gif)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
